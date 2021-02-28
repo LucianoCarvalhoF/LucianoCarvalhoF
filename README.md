@@ -5,8 +5,7 @@
     <img src="https://img.shields.io/github/followers/lukkerr?style=social">
     <img src="https://img.shields.io/github/stars/lukkerr?style=social">
   </p>
-  <hr>
-  <p align="center">Estudante de desenvolvimento em curso com foco em programação web.</p>
+  <p align="center">Estudante de desenvolvimento em curso com foco em programação web.</p> 
 </p>
 
 ### Tecnologias Utilizadas
