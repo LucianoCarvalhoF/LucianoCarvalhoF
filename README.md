@@ -32,7 +32,7 @@
 {
     "Javascript": "OK",
     "CSS": "OK",
-    "React/ReactNative": "OK",
+    "React": "OK",
     "NodeJS": "OK",
     "HTML": "OK",
     "Python": "OK",
@@ -41,6 +41,7 @@
     "PostgreSQL": "OK",
     "SQLite": "OK",
     "Netlify": "OK",
+    "ReactNative": "IN PROGRESS",
     "Firebase": "IN PROGRESS",
     "Java": "IN PROGRESS",
     "PHP": "IN PROGRESS",
