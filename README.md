@@ -57,6 +57,6 @@
 
 ## Social :wink:
 
-- :email: Email: [luciano_carvalho@outlook.com.br](mailto:luciano_carvalho@outlook.com.br)
-- [Linkedin](https://www.linkedin.com/in/lucianocarvalhof)
-
+[![LinkedIn: lucianocarvalhof](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianocarvalhof)
+<br>
+:email: Email: [luciano_carvalho@outlook.com.br](mailto:luciano_carvalho@outlook.com.br)
