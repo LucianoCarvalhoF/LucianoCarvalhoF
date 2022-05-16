@@ -11,6 +11,8 @@
 ## Tecnologias Utilizadas :computer:
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Angular-D6002F?style=for-the-badge&logo=angular&logoColor=white"></img>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
@@ -20,7 +22,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></img>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></img>
@@ -30,6 +31,8 @@
 
 ```
 {
+    "Java": "OK",
+    "Angular": "OK",
     "Javascript": "OK",
     "CSS": "OK",
     "React": "OK",
@@ -42,8 +45,7 @@
     "SQLite": "OK",
     "Netlify": "OK",
     "ReactNative": "IN PROGRESS",
-    "Firebase": "IN PROGRESS",
-    "Java": "IN PROGRESS",
+    "Firebase": "OK",
     "PHP": "IN PROGRESS",
     "ExpressJS": "IN PROGRESS"
 }
