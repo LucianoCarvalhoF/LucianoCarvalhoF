@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://vscode.github.com/assets/img/github-vscode-icon.svg" alt="vscode-github-icon" style="margin: auto" width="100px"></img>
-  <h1 align="center">Luciano de Carvalho Souza Filho | Lukkerr</h1>
+  <h1 align="center">Luciano de Carvalho Souza Filho</h1>
   <p align="center">
-    <img src="https://img.shields.io/github/followers/lukkerr?style=social">
-    <img src="https://img.shields.io/github/stars/lukkerr?style=social">
+    <img src="https://img.shields.io/github/followers/LucianoCarvalhoF?style=social">
+    <img src="https://img.shields.io/github/stars/LucianoCarvalhoF?style=social">
   </p>
   <p align="center">Estudante de desenvolvimento em curso com foco em programação web.</p> 
 </p>
@@ -53,8 +53,8 @@
 
 ## Estatísticas :heavy_check_mark:
 <p align="center">
-  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=lukkerr&count_private=true&show_icons=true&theme=dark"><img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkerr&layout=compact&count_private=true&theme=dark"></img>
+  <img width="350px" src="https://github-readme-stats.vercel.app/api?username=LucianoCarvalhoF&count_private=true&show_icons=true&theme=dark"><img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCarvalhoF&layout=compact&count_private=true&theme=dark"></img>
 </p>
 
 ## Social :wink:
